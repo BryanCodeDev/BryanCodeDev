@@ -1,20 +1,33 @@
 # ¡Hola! 👋 Soy Bryan Muñoz
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Desarrollador+Full+Stack;Analista+de+Software;Python+%26+Django+Expert;¡Creando+código+increíble!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full+Stack+Developer;React+%26+Next.js+Expert;Node.js+%26+Django+Master;Python+%26+JavaScript+Pro;¡Creando+el+futuro+digital!" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ## 🚀 Sobre mí
 
-Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA** con pasión por crear soluciones innovadoras. Mi experiencia abarca desde el desarrollo front-end hasta complejos sistemas back-end.
+Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA** con más de 1 año de experiencia creando soluciones web innovadoras y escalables. Mi expertise se centra en el desarrollo **Full Stack** con tecnologías modernas tanto en frontend como backend.
 
-- 🔭 Actualmente trabajo en **MasterCode Company**
-- 🌱 Especializado en **Python, Django, JavaScript** y frameworks modernos
-- 💡 Me encanta resolver problemas complejos y crear código limpio
-- 📍 Ubicado en **Colombia** 🇨🇴
-- 📧 Contáctame en: **tiagotroller01019@gmail.com**
+### 🎯 **Mi perfil profesional:**
+- 🏢 **Actualmente:** Desarrollador Full Stack en **MasterCode Company**
+- 🚀 **Especialización:** Arquitectura de aplicaciones web modernas y APIs RESTful
+- 💻 **Frontend:** React.js, Next.js, JavaScript ES6+, HTML5, CSS3
+- ⚙️ **Backend:** Node.js, Django, Python, PHP
+- 🗄️ **Bases de datos:** MySQL, PostgreSQL, MongoDB
+- 🌐 **Despliegue:** Docker, AWS, Vercel, Heroku
+- 🔧 **Metodologías:** Agile, Scrum, Clean Code, TDD
+
+### 🎖️ **Lo que me distingue:**
+- ✨ Desarrollo de interfaces modernas con **React** y **Next.js**
+- 🛠️ Creación de APIs robustas con **Node.js** y **Django**
+- 📱 Aplicaciones responsivas y optimizadas para todos los dispositivos
+- 🔒 Implementación de sistemas de autenticación y seguridad
+- 📊 Integración de bases de datos y optimización de consultas
+- 🚀 Enfoque en performance y experiencia de usuario excepcional
+
+📍 **Ubicación:** Colombia 🇨🇴 | 📧 **Contacto:** tiagotroller01019@gmail.com
 
 <br clear="right"/>
 
@@ -22,21 +35,37 @@ Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA** c
 
 <div align="center">
 
-### 🎨 Frontend
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend Development  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🛠️ Herramientas & Otros
+### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -53,23 +82,35 @@ Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA** c
 
 ## 🎯 Proyectos Destacados
 
-### 🏪 **Tienda** - Sistema de Gestión de Inventario
-Aplicación completa en Python que permite administrar productos, realizar compras y gestionar datos mediante archivos JSON. Implementa las clases Producto y CarritoCompra para una gestión eficiente.
+### 🛒 **E-Commerce Full Stack** - Tienda Online Moderna
+Aplicación completa desarrollada con **React.js** y **Node.js**. Sistema de gestión de inventario inteligente con Python que permite administrar productos, carrito de compras y procesamiento de pagos. Implementa arquitectura REST API y manejo eficiente de estado.
+- **Tech Stack:** React, Node.js, Python, MongoDB, Express
+- **Características:** Autenticación JWT, Pasarela de pagos, Panel administrativo
 
-### 🎓 **SENA_CBA_ADSO** - Sistema de Gestión de Aprendices
-Programa desarrollado en Python para gestionar aprendices del SENA. Permite registrar, consultar y administrar información de estudiantes con funcionalidades avanzadas de búsqueda y organización.
+### 🎓 **SENA Management System** - Plataforma Educativa
+Sistema integral desarrollado con **Django** y **React** para gestión de aprendices del SENA. Incluye módulos de registro, seguimiento académico, generación de reportes y dashboard administrativo con visualización de datos en tiempo real.
+- **Tech Stack:** Django, React, PostgreSQL, Docker
+- **Características:** Dashboard interactivo, Sistema de roles, Reportes automatizados
 
-### 🧮 **Ejercicios con Python** - Colección de Retos Matemáticos
-Diversos ejercicios de programación incluyendo cálculos de área, perímetro, números aleatorios y manipulación de figuras geométricas. Ideal para practicar lógica de programación.
+### 🧮 **MathLab Interactive** - Plataforma de Ejercicios Matemáticos  
+Aplicación web desarrollada con **Next.js** y **FastAPI** que ofrece ejercicios interactivos de programación matemática. Incluye cálculos de área, perímetro, algoritmos de figuras geométricas y generadores de números aleatorios con visualización gráfica.
+- **Tech Stack:** Next.js, FastAPI, Python, Chart.js
+- **Características:** Visualizaciones dinámicas, Algoritmos optimizados, UI/UX moderna
 
-### 🎮 **Retos con Python** - Desafíos de Programación
-Serie de retos y ejercicios diseñados para poner a prueba habilidades de programación en Python, desde conceptos básicos hasta implementaciones más complejas.
+### 🎮 **CodeChallenge Platform** - Sistema de Retos de Programación
+Plataforma completa construida con **MERN Stack** donde los desarrolladores pueden resolver retos de programación, competir en tiempo real y mejorar sus habilidades. Incluye sistema de ranking, judge automático y comunidad integrada.
+- **Tech Stack:** MongoDB, Express, React, Node.js, Socket.io
+- **Características:** Judge en tiempo real, Sistema de ranking, Chat en vivo
 
+### 🌐 **MasterCode Company Website** - Sitio Corporativo
+Sitio web corporativo desarrollado con **Next.js** y **Tailwind CSS**. Incluye sistema de gestión de contenido, blog integrado, formularios de contacto avanzados y optimización SEO completa.
+- **Tech Stack:** Next.js, Tailwind CSS, Vercel, Headless CMS
+- **Características:** SSG/SSR, SEO optimizado, Performance A+
 
 ## 📈 Gráfico de Contribuciones
 
 <div align="center">
-  <img alt="snake eating my contributions" src="[https://raw.githubusercontent.com/BryanCodeDev/BryanCodeDev/output/github-contribution-grid-snake.svg](https://github.com/BryanCodeDev)" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BryanCodeDev/BryanCodeDev/output/github-contribution-grid-snake.svg" />
 </div>
 
 ## 🤝 ¡Conectemos!
