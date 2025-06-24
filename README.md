@@ -65,28 +65,11 @@ Diversos ejercicios de programación incluyendo cálculos de área, perímetro, 
 ### 🎮 **Retos con Python** - Desafíos de Programación
 Serie de retos y ejercicios diseñados para poner a prueba habilidades de programación en Python, desde conceptos básicos hasta implementaciones más complejas.
 
-## 🌟 Lo que me caracteriza
-
-```python
-class BryanDeveloper:
-    def __init__(self):
-        self.name = "Bryan Muñoz"
-        self.role = "Full Stack Developer"
-        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
-        self.frameworks = ["Django", "Bootstrap"]
-        self.passion = "Crear soluciones que impacten positivamente"
-        
-    def say_hi(self):
-        print("¡Gracias por visitar mi perfil! ¡Hablemos de código! 🚀")
-
-me = BryanDeveloper()
-me.say_hi()
-```
 
 ## 📈 Gráfico de Contribuciones
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BryanCodeDev/BryanCodeDev/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="[https://raw.githubusercontent.com/BryanCodeDev/BryanCodeDev/output/github-contribution-grid-snake.svg](https://github.com/BryanCodeDev)" />
 </div>
 
 ## 🤝 ¡Conectemos!
