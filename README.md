@@ -80,38 +80,6 @@ Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA** c
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=BryanCodeDev&theme=react&border_radius=10" alt="readme streak" />
 </div>
 
-## 🎯 Proyectos Destacados
-
-### 🛒 **E-Commerce Full Stack** - Tienda Online Moderna
-Aplicación completa desarrollada con **React.js** y **Node.js**. Sistema de gestión de inventario inteligente con Python que permite administrar productos, carrito de compras y procesamiento de pagos. Implementa arquitectura REST API y manejo eficiente de estado.
-- **Tech Stack:** React, Node.js, Python, MongoDB, Express
-- **Características:** Autenticación JWT, Pasarela de pagos, Panel administrativo
-
-### 🎓 **SENA Management System** - Plataforma Educativa
-Sistema integral desarrollado con **Django** y **React** para gestión de aprendices del SENA. Incluye módulos de registro, seguimiento académico, generación de reportes y dashboard administrativo con visualización de datos en tiempo real.
-- **Tech Stack:** Django, React, PostgreSQL, Docker
-- **Características:** Dashboard interactivo, Sistema de roles, Reportes automatizados
-
-### 🧮 **MathLab Interactive** - Plataforma de Ejercicios Matemáticos  
-Aplicación web desarrollada con **Next.js** y **FastAPI** que ofrece ejercicios interactivos de programación matemática. Incluye cálculos de área, perímetro, algoritmos de figuras geométricas y generadores de números aleatorios con visualización gráfica.
-- **Tech Stack:** Next.js, FastAPI, Python, Chart.js
-- **Características:** Visualizaciones dinámicas, Algoritmos optimizados, UI/UX moderna
-
-### 🎮 **CodeChallenge Platform** - Sistema de Retos de Programación
-Plataforma completa construida con **MERN Stack** donde los desarrolladores pueden resolver retos de programación, competir en tiempo real y mejorar sus habilidades. Incluye sistema de ranking, judge automático y comunidad integrada.
-- **Tech Stack:** MongoDB, Express, React, Node.js, Socket.io
-- **Características:** Judge en tiempo real, Sistema de ranking, Chat en vivo
-
-### 🌐 **MasterCode Company Website** - Sitio Corporativo
-Sitio web corporativo desarrollado con **Next.js** y **Tailwind CSS**. Incluye sistema de gestión de contenido, blog integrado, formularios de contacto avanzados y optimización SEO completa.
-- **Tech Stack:** Next.js, Tailwind CSS, Vercel, Headless CMS
-- **Características:** SSG/SSR, SEO optimizado, Performance A+
-
-## 📈 Gráfico de Contribuciones
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BryanCodeDev/BryanCodeDev/output/github-contribution-grid-snake.svg" />
-</div>
 
 ## 🤝 ¡Conectemos!
 
