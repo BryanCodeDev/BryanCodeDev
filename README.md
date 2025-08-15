@@ -58,55 +58,29 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
 
 ## 🏆 Proyectos Destacados
 
-### 🌟 [Proyecto 1 - E-commerce Platform](enlace-github)
+### 🤖 [Pertutti Chatbot](enlace-github)
+**Node.js + WhatsApp API + MySQL + Railway**
+- Chatbot inteligente para WhatsApp Business especializado en bicicletas y servicios de ciclismo
+- Sistema completo con atención 24/7, menú interactivo y servicio técnico automatizado
+- Base de datos MySQL para gestión de consultas y análisis de interacciones
+- Desplegado en Railway para máxima disponibilidad y escalabilidad
+
+### 🚌 [TransSync - Sistema CRM](enlace-github)
 **React + Node.js + PostgreSQL**
-- Sistema completo de comercio electrónico con carrito de compras
-- Integración de pasarelas de pago y gestión de inventario
-- Panel administrativo con dashboard analítico
+- Sistema CRM completo para control y gestión del tráfico de busetas
+- Plataforma integral que permite monitorear, administrar y optimizar operaciones de transporte público urbano en tiempo real
+- Dashboard analítico con métricas de rendimiento y reportes automatizados
+- Sistema de seguimiento GPS y gestión de rutas optimizadas
 
-### 🌟 [Proyecto 2 - Task Management App](enlace-github)
-**Next.js + Django + MongoDB**
-- Aplicación de gestión de tareas colaborativa en tiempo real
-- Sistema de notificaciones y asignación de roles
-- API REST con autenticación JWT
-
-### 🌟 [Proyecto 3 - Learning Management System](enlace-github)
-**React + Express.js + MySQL**
-- Plataforma educativa con sistema de cursos y evaluaciones
-- Chat en vivo y videoconferencias integradas
-- Tracking de progreso y certificaciones
+### 🏢 [MasterCodeCompany - Corporate Website](enlace-github)
+**React + Next.js + Responsive Design**
+- Landing page corporativa desarrollada para nuestra empresa de desarrollo de software
+- Sitio web moderno y responsivo que presenta servicios, proyectos y capacidades tecnológicas
+- Optimizado para SEO y performance con tiempos de carga ultra-rápidos
+- Diseño UI/UX profesional que refleja la identidad de marca de la empresa
 
 ## 📊 Estadísticas de GitHub
 
@@ -135,6 +109,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagotroller01019@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mastercodecompany.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/santx_09_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/santx_09_)
 
 </div>
 
