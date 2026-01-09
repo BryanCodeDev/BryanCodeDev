@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Bryan Muñoz
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Full+Stack+Developer;Sistemas+Web+Empresariales;React+%26+Node.js;Construyendo+soluciones+digitales+reales" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Full+Stack+Developer;Sistemas+Web+Empresariales;React+%26+Node.js;Construyendo+software+real+para+empresas" />
 </div>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -10,30 +10,26 @@
 
 ## 🚀 Sobre mí
 
-Soy **Desarrollador Full Stack** y **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA**, con **1 año y medio de experiencia** creando **aplicaciones web empresariales**.
+Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA**, con **1 año y medio de experiencia** desarrollando **sistemas web empresariales** orientados a la optimización de procesos, control de información y trazabilidad.
 
-He trabajado en el diseño, desarrollo e implementación de plataformas que centralizan **procesos, información y recursos tecnológicos**, ayudando a mejorar la eficiencia operativa, la seguridad de los datos y la trazabilidad de acciones dentro de las organizaciones.
-
-Me enfoco en construir soluciones **escalables, seguras y bien estructuradas**, aplicando buenas prácticas de desarrollo y tecnologías modernas.
+Me especializo como **Desarrollador Full Stack**, participando en el diseño, desarrollo e implementación de plataformas que integran soporte técnico, inventario IT, documentación, control de accesos y auditoría, utilizando arquitecturas modernas y escalables.
 
 📍 **Colombia** 🇨🇴  
 📧 **tiagotroller01019@gmail.com**  
 🌐 **[mastercodecompany.com](https://mastercodecompany.com)**  
-💻 **GitHub:** [BryanCodeDev](https://github.com/BryanCodeDev)
+🐦 **@santx_09_**
 
 <br clear="right"/>
 
 ---
 
-## 🧩 ¿Qué tipo de soluciones desarrollo?
+## 🧩 Problemas que resuelvo
 
-- Plataformas web empresariales
-- Sistemas de gestión de información y procesos
-- Aplicaciones con control de usuarios, roles y permisos
-- APIs REST seguras y escalables
-- Dashboards administrativos y reportes
-- Automatización de tareas y flujos internos
-- Integraciones entre sistemas y servicios externos
+- Falta de organización en procesos de soporte técnico y gestión IT
+- Pérdida de información por eliminaciones accidentales
+- Sistemas sin control de roles, permisos ni auditoría
+- Procesos manuales repetitivos y poco eficientes
+- Aplicaciones difíciles de escalar o mantener
 
 ---
 
@@ -46,15 +42,14 @@ Me enfoco en construir soluciones **escalables, seguras y bien estructuradas**, 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Bases de Datos & DevOps
@@ -76,39 +71,40 @@ Me enfoco en construir soluciones **escalables, seguras y bien estructuradas**, 
 
 ## 🏆 Proyectos Destacados
 
-### 🏢 DuvyClass – Plataforma Web Empresarial
+### 🗑️ [DuvyClass – Sistema IT de Gestión Tecnológica](enlace-github)
 **React + Node.js + PostgreSQL**
-- Plataforma modular para la gestión de procesos, información y recursos tecnológicos
-- Centralización de múltiples módulos bajo una sola arquitectura
-- Control de accesos por roles y permisos
-- Auditoría y trazabilidad de acciones del sistema
-- Automatización de tareas y procesos recurrentes
-- Dashboards administrativos con métricas y reportes
-- Documentación técnica y manual de usuario incluidos
+- Plataforma web empresarial para la gestión tecnológica integral
+- Sistema modular: tickets, inventario IT, documentación, credenciales y calidad
+- Implementación de **Sistema de Papelera** con restauración y eliminación permanente
+- Limpieza automática nocturna con retención de 30 días
+- Control de accesos por roles (Administrador, Técnico, Empleado y Calidad)
+- Auditoría completa, trazabilidad y logs del sistema
+- Dashboard con estadísticas y métricas operativas
+- Documentación funcional y manual de usuario incluidos
 
 ---
 
-### 🤖 Pertutti Chatbot
+### 🤖 [Pertutti Chatbot](enlace-github)
 **Node.js + WhatsApp API + MySQL**
 - Chatbot para WhatsApp Business con atención automatizada 24/7
-- Gestión de consultas y flujos de atención
-- Persistencia de datos y análisis de interacciones
+- Menú interactivo y gestión de consultas técnicas
+- Base de datos para análisis de interacciones
 - Enfoque en automatización de atención al cliente
 
 ---
 
-### 🚌 TransSync – Sistema CRM
+### 🚌 [TransSync – Sistema CRM](enlace-github)
 **React + Node.js + PostgreSQL**
-- Sistema CRM para gestión y control operativo
-- Administración de procesos y visualización de métricas
+- CRM para control y gestión de tráfico de transporte público
+- Monitoreo de operaciones y administración de rutas
 - Dashboard analítico con reportes automatizados
 
 ---
 
-### 🏢 MasterCodeCompany – Corporate Website
-**React + Next.js**
-- Sitio web corporativo optimizado para SEO y rendimiento
-- Diseño moderno y completamente responsivo
+### 🏢 [MasterCodeCompany – Corporate Website](enlace-github)
+**Next.js + React**
+- Landing page corporativa optimizada para SEO y rendimiento
+- Diseño responsivo y UI/UX profesional
 - Presentación de servicios y portafolio tecnológico
 
 ---
@@ -127,11 +123,11 @@ Me enfoco en construir soluciones **escalables, seguras y bien estructuradas**, 
 
 ## 📄 Perfil Profesional
 
-- **Rol:** Desarrollador Full Stack  
-- **Experiencia:** 1 año y medio  
-- **Formación:** Tecnólogo en Análisis y Desarrollo de Software – SENA  
-- **Enfoque:** Sistemas web empresariales y automatización de procesos  
-- **Modalidad:** Remoto / Presencial / Híbrido  
+- **Rol:** Desarrollador Full Stack
+- **Experiencia:** 1 año y medio
+- **Formación:** Tecnólogo en Análisis y Desarrollo de Software – SENA
+- **Enfoque:** Sistemas empresariales, plataformas IT y automatización de procesos
+- **Modalidad:** Remoto / Presencial / Híbrido
 
 ---
 
@@ -144,13 +140,13 @@ Me enfoco en construir soluciones **escalables, seguras y bien estructuradas**, 
 
 ---
 
-## 🎯 Objetivos Profesionales
+## 🎯 Objetivos 2026
 
 - Profundizar en **TypeScript avanzado**
-- Fortalecer conocimientos en **arquitectura de software**
-- Obtener certificación en **AWS**
-- Desarrollar aplicaciones móviles con **React Native**
-- Participar en proyectos **Open Source**
+- Certificación **AWS**
+- Desarrollo móvil con **React Native**
+- Aplicar **Machine Learning** en sistemas web
+- Contribuir a proyectos **Open Source**
 
 ---
 
