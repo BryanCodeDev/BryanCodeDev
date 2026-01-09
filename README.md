@@ -61,6 +61,17 @@
 
 ## 🏆 Proyectos Destacados
 
+### 🗑️ [DuvyClass – Sistema IT de Gestión Tecnológica](enlace-github)
+**React + Node.js + PostgreSQL + Control de Roles**
+- Plataforma web integral para la gestión tecnológica empresarial
+- Sistema modular que centraliza soporte técnico, inventario IT, documentación y credenciales
+- Implementación avanzada de **Sistema de Papelera** con recuperación de elementos eliminados y limpieza automática
+- Control de accesos por roles (Administrador, Técnico, Empleado y Calidad)
+- Trazabilidad completa de acciones con auditoría y logs del sistema
+- Limpieza automática nocturna con retención configurable (30 días)
+- Dashboard con estadísticas, métricas operativas y reportes
+- Arquitectura escalable orientada a entornos corporativos
+
 ### 🤖 [Pertutti Chatbot](enlace-github)
 **Node.js + WhatsApp API + MySQL + Railway**
 - Chatbot inteligente para WhatsApp Business especializado en bicicletas y servicios de ciclismo
