@@ -93,7 +93,7 @@
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=BryanCodeDev&theme=react&border_radius=10" alt="GitHub Streak" />
 </div>
 
-## 🎯 Objetivos 2025
+## 🎯 Objetivos 2026
 
 - 🚀 Dominar **TypeScript** avanzado y patrones de diseño
 - ☁️ Obtener certificación en **AWS Solutions Architect**
