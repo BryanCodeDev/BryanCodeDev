@@ -10,6 +10,10 @@
 
 ## 🚀 Sobre mí
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA**, con **1 año y medio de experiencia** desarrollando **sistemas web empresariales** orientados a la optimización de procesos, control de información y trazabilidad.
 
 Me especializo como **Desarrollador Full Stack**, participando en el diseño, desarrollo e implementación de plataformas que integran soporte técnico, inventario IT, documentación, control de accesos y auditoría, utilizando arquitecturas modernas y escalables.
@@ -19,7 +23,14 @@ Me especializo como **Desarrollador Full Stack**, participando en el diseño, de
 🌐 **[mastercodecompany.com](https://mastercodecompany.com)**  
 🐦 **@santx_09_**
 
-<br clear="right"/>
+</td>
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
+
+</td>
+</tr>
+</table>
 
 ---
 
