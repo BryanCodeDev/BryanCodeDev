@@ -23,13 +23,15 @@ Me especializo como **Desarrollador Full Stack**, participando en el diseño, de
 
 ---
 
-## 🧩 Problemas que resuelvo
+## 🧩 ¿Qué tipo de soluciones desarrollo?
 
-- Falta de organización en procesos de soporte técnico y gestión IT
-- Pérdida de información por eliminaciones accidentales
-- Sistemas sin control de roles, permisos ni auditoría
-- Procesos manuales repetitivos y poco eficientes
-- Aplicaciones difíciles de escalar o mantener
+- Plataformas web empresariales
+- Sistemas de gestión de información y procesos
+- Aplicaciones con control de usuarios, roles y permisos
+- APIs REST seguras y escalables
+- Dashboards administrativos y reportes
+- Automatización de tareas y flujos internos
+- Integraciones entre sistemas y servicios externos
 
 ---
 
