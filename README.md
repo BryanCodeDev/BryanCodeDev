@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-**Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA** con más de 1 año de experiencia creando soluciones web innovadoras. Actualmente me desempeño como **Desarrollador Full Stack** en **MasterCode Company**, especializado en arquitecturas modernas y APIs escalables.
+**Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA** con más de 1 año de experiencia creando soluciones web innovadoras. Actualmente me desempeño como **Desarrollador Full Stack**, especializado en arquitecturas modernas y APIs escalables.
 
 ### 🎯 Lo que hago:
 - 🚀 Desarrollo aplicaciones web completas con **React/Next.js** y **Node.js/Django**
