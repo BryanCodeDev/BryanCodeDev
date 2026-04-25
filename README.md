@@ -1,37 +1,49 @@
 # ¡Hola! 👋 Soy Bryan Muñoz
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Full+Stack+Developer;Sistemas+Web+Empresariales;React+%26+Node.js;Construyendo+software+real+para+empresas" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Full+Stack+Developer;Sistemas+Web+Empresariales;React+%7C+Node.js+%7C+PostgreSQL;Construyendo+software+que+resuelve+problemas+reales" />
 </div>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding gif" />
+</div>
+
+<div align="center">
+  <a href="https://mastercodecompany.com">
+    <img src="https://img.shields.io/badge/🌐 mastercodecompany.com-000000?style=for-the-badge" />
+  </a>
+  <a href="mailto:tiagotroller01019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/BryanCodeDev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA**, con **1 año y medio de experiencia** desarrollando **sistemas web empresariales** orientados a la optimización de procesos, control de información y trazabilidad.
+Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA**, con **+1.5 años de experiencia** construyendo **sistemas web empresariales** de alto impacto: desde plataformas de gestión IT hasta CRMs, chatbots y sitios corporativos.
 
-Me especializo como **Desarrollador Full Stack**, participando en el diseño, desarrollo e implementación de plataformas que integran soporte técnico, inventario IT, documentación, control de accesos y auditoría, utilizando arquitecturas modernas y escalables.
+Me especializo en desarrollo **Full Stack** con énfasis en arquitecturas escalables, APIs REST seguras, control de accesos por roles y dashboards operativos. Fundador de **[MasterCodeCompany](https://mastercodecompany.com)** 🚀
 
-📍 **Colombia** 🇨🇴  
-📧 **tiagotroller01019@gmail.com**  
-🌐 **[mastercodecompany.com](https://mastercodecompany.com)**  
-🐦 **@santx_09_**
-
-<br clear="right"/>
+> 📍 Colombia 🇨🇴 &nbsp;|&nbsp; 🕐 Disponible: Remoto / Presencial / Híbrido
 
 ---
 
-## 🧩 ¿Qué tipo de soluciones desarrollo?
+## 🧩 ¿Qué construyo?
 
-- Plataformas web empresariales
-- Sistemas de gestión de información y procesos
-- Aplicaciones con control de usuarios, roles y permisos
-- APIs REST seguras y escalables
-- Dashboards administrativos y reportes
-- Automatización de tareas y flujos internos
-- Integraciones entre sistemas y servicios externos
+| Tipo de solución | Descripción |
+|---|---|
+| 🏢 **Plataformas empresariales** | Sistemas modulares con roles, auditoría y trazabilidad |
+| 📊 **Dashboards & Reportes** | Métricas operativas en tiempo real |
+| 🔐 **Control de accesos** | Autenticación JWT, roles y permisos granulares |
+| 🤖 **Automatización** | Chatbots, flujos internos y limpieza de datos |
+| 🔗 **APIs REST** | Endpoints seguros, documentados y escalables |
+| 🔄 **Integraciones** | Conexión entre sistemas y servicios externos |
 
 ---
 
@@ -49,9 +61,9 @@ Me especializo como **Desarrollador Full Stack**, participando en el diseño, de
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Bases de Datos & DevOps
@@ -59,7 +71,6 @@ Me especializo como **Desarrollador Full Stack**, participando en el diseño, de
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🛠️ Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -73,82 +84,89 @@ Me especializo como **Desarrollador Full Stack**, participando en el diseño, de
 
 ## 🏆 Proyectos Destacados
 
-### 🗑️ [DuvyClass – Sistema IT de Gestión Tecnológica](enlace-github)
-**React + Node.js + PostgreSQL**
-- Plataforma web empresarial para la gestión tecnológica integral
-- Sistema modular: tickets, inventario IT, documentación, credenciales y calidad
-- Implementación de **Sistema de Papelera** con restauración y eliminación permanente
-- Limpieza automática nocturna con retención de 30 días
-- Control de accesos por roles (Administrador, Técnico, Empleado y Calidad)
-- Auditoría completa, trazabilidad y logs del sistema
-- Dashboard con estadísticas y métricas operativas
-- Documentación funcional y manual de usuario incluidos
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🖥️ DuvyClass – Sistema IT
+**`React` `Node.js` `PostgreSQL`**
 
-### 🤖 [Pertutti Chatbot](enlace-github)
-**Node.js + WhatsApp API + MySQL**
-- Chatbot para WhatsApp Business con atención automatizada 24/7
-- Menú interactivo y gestión de consultas técnicas
-- Base de datos para análisis de interacciones
-- Enfoque en automatización de atención al cliente
+Plataforma web empresarial para gestión tecnológica integral.
 
----
+✅ Módulos: tickets, inventario IT, credenciales y calidad  
+✅ Roles granulares: Admin, Técnico, Empleado, Calidad  
+✅ Auditoría completa y trazabilidad de acciones  
+✅ Dashboard con métricas operativas en tiempo real  
+✅ Papelera con limpieza automática nocturna (30 días)  
+✅ Documentación funcional y manual de usuario  
 
-### 🚌 [TransSync – Sistema CRM](enlace-github)
-**React + Node.js + PostgreSQL**
-- CRM para control y gestión de tráfico de transporte público
-- Monitoreo de operaciones y administración de rutas
-- Dashboard analítico con reportes automatizados
+</td>
+<td width="50%" valign="top">
 
----
+### 🤖 Pertutti Chatbot
+**`Node.js` `WhatsApp API` `MySQL`**
 
-### 🏢 [MasterCodeCompany – Corporate Website](enlace-github)
-**Next.js + React**
-- Landing page corporativa optimizada para SEO y rendimiento
-- Diseño responsivo y UI/UX profesional
-- Presentación de servicios y portafolio tecnológico
+Chatbot para WhatsApp Business con atención automatizada.
 
----
+✅ Disponibilidad 24/7 sin intervención humana  
+✅ Menú interactivo y gestión de consultas técnicas  
+✅ Registro y análisis de interacciones en BD  
+✅ Escalable a múltiples flujos de atención  
 
-## 🛠️ Buenas Prácticas de Desarrollo
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Código limpio, modular y mantenible
-- Arquitecturas escalables
-- Control de versiones con Git y GitFlow
-- Validaciones frontend y backend
-- Manejo de errores y logs
-- Seguridad basada en roles y permisos
-- Documentación técnica y funcional
+### 🚌 TransSync – CRM de Transporte
+**`React` `Node.js` `PostgreSQL`**
 
----
+CRM para gestión de tráfico de transporte público.
 
-## 📄 Perfil Profesional
+✅ Monitoreo de operaciones y administración de rutas  
+✅ Dashboard analítico con reportes automatizados  
+✅ Control centralizado de operaciones  
 
-- **Rol:** Desarrollador Full Stack
-- **Experiencia:** 1 año y medio
-- **Formación:** Tecnólogo en Análisis y Desarrollo de Software – SENA
-- **Enfoque:** Sistemas empresariales, plataformas IT y automatización de procesos
-- **Modalidad:** Remoto / Presencial / Híbrido
+</td>
+<td width="50%" valign="top">
+
+### 🏢 MasterCodeCompany – Web Corporativa
+**`Next.js` `React`**
+
+Landing page corporativa de alto rendimiento.
+
+✅ SEO optimizado y carga ultrarrápida  
+✅ Diseño responsivo y UI/UX profesional  
+✅ Portafolio de servicios y proyectos  
+
+🌐 [mastercodecompany.com](https://mastercodecompany.com)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BryanCodeDev&show_icons=true&theme=react&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanCodeDev&layout=compact&theme=react&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BryanCodeDev&show_icons=true&theme=react&border_radius=10&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanCodeDev&layout=compact&theme=react&border_radius=10&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=BryanCodeDev&theme=react&border_radius=10&hide_border=true" />
 </div>
 
 ---
 
 ## 🎯 Objetivos 2026
 
-- Profundizar en **TypeScript avanzado**
-- Certificación **AWS**
-- Desarrollo móvil con **React Native**
-- Aplicar **Machine Learning** en sistemas web
-- Contribuir a proyectos **Open Source**
+- [ ] Dominar **TypeScript** a nivel avanzado
+- [ ] Obtener certificación **AWS Cloud Practitioner**
+- [ ] Lanzar app móvil con **React Native**
+- [ ] Integrar **Machine Learning** en sistemas web
+- [ ] Contribuir activamente a proyectos **Open Source**
 
 ---
 
@@ -156,12 +174,16 @@ Me especializo como **Desarrollador Full Stack**, participando en el diseño, de
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/BryanCodeDev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:tiagotroller01019@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://mastercodecompany.com)
+¿Tienes un proyecto en mente o quieres trabajar juntos? ¡Hablemos!
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BryanCodeDev)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagotroller01019@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://mastercodecompany.com)
 
 </div>
 
 ---
 
-> *“El buen software no solo funciona, también resuelve problemas reales.”*
+<div align="center">
+  <i>"El buen software no solo funciona, también resuelve problemas reales."</i>
+</div>
