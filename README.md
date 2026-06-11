@@ -26,7 +26,7 @@
 
 ## 🚀 Sobre mí
 
-Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA**, con **+1.5 años de experiencia** construyendo **sistemas web empresariales** de alto impacto: desde plataformas de gestión IT hasta CRMs, chatbots y sitios corporativos.
+Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA**, con **+2 años de experiencia** construyendo **sistemas web empresariales** de alto impacto: desde plataformas de gestión IT hasta CRMs, chatbots y sitios corporativos.
 
 Me especializo en desarrollo **Full Stack** con énfasis en arquitecturas escalables, APIs REST seguras, control de accesos por roles y dashboards operativos. Fundador de **[MasterCodeCompany](https://mastercodecompany.com)** 🚀
 
@@ -93,12 +93,11 @@ Me especializo en desarrollo **Full Stack** con énfasis en arquitecturas escala
 
 Plataforma web empresarial para gestión tecnológica integral.
 
-✅ Módulos: tickets, inventario IT, credenciales y calidad  
-✅ Roles granulares: Admin, Técnico, Empleado, Calidad  
-✅ Auditoría completa y trazabilidad de acciones  
-✅ Dashboard con métricas operativas en tiempo real  
-✅ Papelera con limpieza automática nocturna (30 días)  
-✅ Documentación funcional y manual de usuario  
+✅ Módulos: tickets, inventario IT, credenciales y calidad
+✅ Roles granulares: Admin, Técnico, Empleado, Calidad
+✅ Auditoría completa y trazabilidad de acciones
+✅ Dashboard con métricas operativas en tiempo real
+✅ Papelera con limpieza automática nocturna (30 días)
 
 </td>
 <td width="50%" valign="top">
@@ -108,10 +107,10 @@ Plataforma web empresarial para gestión tecnológica integral.
 
 Chatbot para WhatsApp Business con atención automatizada.
 
-✅ Disponibilidad 24/7 sin intervención humana  
-✅ Menú interactivo y gestión de consultas técnicas  
-✅ Registro y análisis de interacciones en BD  
-✅ Escalable a múltiples flujos de atención  
+✅ Disponibilidad 24/7 sin intervención humana
+✅ Menú interactivo y gestión de consultas técnicas
+✅ Registro y análisis de interacciones en BD
+✅ Escalable a múltiples flujos de atención
 
 </td>
 </tr>
@@ -123,9 +122,9 @@ Chatbot para WhatsApp Business con atención automatizada.
 
 CRM para gestión de tráfico de transporte público.
 
-✅ Monitoreo de operaciones y administración de rutas  
-✅ Dashboard analítico con reportes automatizados  
-✅ Control centralizado de operaciones  
+✅ Monitoreo de operaciones y administración de rutas
+✅ Dashboard analítico con reportes automatizados
+✅ Control centralizado de operaciones
 
 </td>
 <td width="50%" valign="top">
@@ -135,9 +134,9 @@ CRM para gestión de tráfico de transporte público.
 
 Landing page corporativa de alto rendimiento.
 
-✅ SEO optimizado y carga ultrarrápida  
-✅ Diseño responsivo y UI/UX profesional  
-✅ Portafolio de servicios y proyectos  
+✅ SEO optimizado y carga ultrarrápida
+✅ Diseño responsivo y UI/UX profesional
+✅ Portafolio de servicios y proyectos
 
 🌐 [mastercodecompany.com](https://mastercodecompany.com)
 
