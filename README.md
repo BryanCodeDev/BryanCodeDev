@@ -26,7 +26,7 @@
 
 ## 🚀 Sobre mí
 
-Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA**, con **+2 años de experiencia** construyendo **sistemas web empresariales** de alto impacto: desde plataformas de gestión IT hasta CRMs, chatbots y sitios corporativos.
+Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA**, con **+2 años de experiencia** construyendo **sistemas web empresariales** y **productos digitales** de alto impacto: desde plataformas de gestión IT hasta CRMs, chatbots, plataformas de suscripción y sitios corporativos.
 
 Me especializo en desarrollo **Full Stack** con énfasis en arquitecturas escalables, APIs REST seguras, control de accesos por roles y dashboards operativos. Fundador de **[MasterCodeCompany](https://mastercodecompany.com)** 🚀
 
@@ -39,11 +39,12 @@ Me especializo en desarrollo **Full Stack** con énfasis en arquitecturas escala
 | Tipo de solución | Descripción |
 |---|---|
 | 🏢 **Plataformas empresariales** | Sistemas modulares con roles, auditoría y trazabilidad |
+| 💳 **Plataformas de suscripción** | Sistemas de membresías con pagos recurrentes y dashboards de ingresos |
 | 📊 **Dashboards & Reportes** | Métricas operativas en tiempo real |
 | 🔐 **Control de accesos** | Autenticación JWT, roles y permisos granulares |
 | 🤖 **Automatización** | Chatbots, flujos internos y limpieza de datos |
 | 🔗 **APIs REST** | Endpoints seguros, documentados y escalables |
-| 🔄 **Integraciones** | Conexión entre sistemas y servicios externos |
+| 🌐 **Sitios web corporativos** | Presencia digital institucional optimizada para SEO |
 
 ---
 
@@ -129,14 +130,51 @@ CRM para gestión de tráfico de transporte público.
 </td>
 <td width="50%" valign="top">
 
+### 💪 NackRat Fitness – Plataforma de Suscripciones
+**`React` `Node.js` `Express` `MySQL` `JWT`**
+
+Plataforma de fitness con membresías Premium/VIP.
+
+✅ Sistema de suscripciones con pagos recurrentes
+✅ Genera $1.740.000 COP/mes en ingresos recurrentes
+✅ Dashboard con métricas de ingresos en tiempo real
+✅ Autenticación JWT y gestión de usuarios
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚽ Deportivo Municipal FC – Web Oficial
+**`React` `JavaScript` `SEO`**
+
+Sitio web oficial de un club deportivo.
+
+✅ Información institucional centralizada
+✅ Categorías formativas y convocatorias
+✅ Diseño responsivo optimizado para SEO
+
+</td>
+<td width="50%" valign="top">
+
+### 🎤 Cabaxx – Plataforma Web para Artista
+**`React` `JavaScript` `CSS3` `SEO`**
+
+Identidad digital para artista urbano emergente.
+
+✅ Experiencia web 100% responsive
+✅ Diseño optimizado para SEO
+✅ Conexión directa con su audiencia
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+
 ### 🏢 MasterCodeCompany – Web Corporativa
 **`Next.js` `React`**
 
-Landing page corporativa de alto rendimiento.
-
-✅ SEO optimizado y carga ultrarrápida
-✅ Diseño responsivo y UI/UX profesional
-✅ Portafolio de servicios y proyectos
+Landing page corporativa de alto rendimiento · SEO optimizado, carga ultrarrápida y diseño responsivo profesional.
 
 🌐 [mastercodecompany.com](https://mastercodecompany.com)
 
