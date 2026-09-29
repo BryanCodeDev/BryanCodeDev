@@ -93,16 +93,17 @@ Me especializo en desarrollo **Full Stack** con énfasis en arquitecturas escala
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ DuvyClass – Sistema IT
-**`React` `Node.js` `PostgreSQL`**
+### 🖥️ DuvyClass – Sistema IT Empresarial
+**`React` `Node.js` `PostgreSQL` `MySQL`**
 
-Plataforma web empresarial para gestión tecnológica integral.
+Plataforma web empresarial ERP-like para gestión tecnológica integral, con +10 módulos y 7 roles de permisos.
 
-✅ Módulos: tickets, inventario IT, credenciales y calidad
-✅ Roles granulares: Admin, Técnico, Empleado, Calidad
-✅ Auditoría completa y trazabilidad de acciones
-✅ Dashboard con métricas operativas en tiempo real
-✅ Papelera con limpieza automática nocturna (30 días)
+✅ Módulos: tickets, **calidad ISO 9001** (NCR, CAPA, auditorías), inventario, documentos (workflow de aprobación), compras, credenciales, papelera
+✅ 7 roles granulares: Administrador, Jefe, Técnico, Empleado, Calidad, Coordinadora Administrativa, Compras
+✅ Transacciones ACID y **locking optimista** (control de versiones) en módulos críticos
+✅ Sistema de papelera con recuperación (30 días) y limpieza automática nocturna
+✅ Auditoría completa con logging (Winston) y trazabilidad de acciones
+✅ Dashboards con métricas operativas y de calidad en tiempo real
 
 </td>
 <td width="50%" valign="top">
