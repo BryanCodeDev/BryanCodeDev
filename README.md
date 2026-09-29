@@ -26,7 +26,7 @@
 
 ## 🚀 Sobre mí
 
-Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA**, con **+2 años de experiencia** construyendo **sistemas web empresariales** y **productos digitales** de alto impacto: desde plataformas de gestión IT hasta CRMs, chatbots, plataformas de suscripción y sitios corporativos.
+Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA**, actualmente cursando **Ingeniería en Software** en el **Politécnico Gran Colombiano**, con **+2 años de experiencia** construyendo **sistemas web empresariales** y **productos digitales** de alto impacto: desde plataformas de gestión IT hasta CRMs, chatbots, plataformas de suscripción y sitios corporativos.
 
 Me especializo en desarrollo **Full Stack** con énfasis en arquitecturas escalables, APIs REST seguras, control de accesos por roles y dashboards operativos. Fundador de **[MasterCodeCompany](https://mastercodecompany.com)** 🚀
 
@@ -59,6 +59,10 @@ Me especializo en desarrollo **Full Stack** con énfasis en arquitecturas escala
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -119,23 +123,25 @@ Chatbot para WhatsApp Business con atención automatizada.
 <td width="50%" valign="top">
 
 ### 🚌 TransSync – CRM de Transporte
-**`React` `Node.js` `PostgreSQL`**
+**`React` `Node.js` `Express` `MongoDB` `Socket.io`**
 
-CRM para gestión de tráfico de transporte público.
+Cliente: **Transporte Urbano de Bogotá**. CRM completo para el control y gestión del tráfico de transporte público urbano, con monitoreo, administración y optimización de operaciones en tiempo real.
 
-✅ Monitoreo de operaciones y administración de rutas
-✅ Dashboard analítico con reportes automatizados
-✅ Control centralizado de operaciones
+✅ Control en tiempo real del tráfico de busetas
+✅ Seguimiento GPS de rutas y vehículos
+✅ Gestión de conductores y personal operativo
+✅ Dashboard administrativo con métricas y reportes automatizados
+📈 **Resultado: -38% en tiempo de espera de pasajeros**
 
 </td>
 <td width="50%" valign="top">
 
-### 💪 NackRat Fitness – Plataforma de Suscripciones
+### 💪 NacRat Fitness – Plataforma de Suscripciones para Gimnasios
 **`React` `Node.js` `Express` `MySQL` `JWT`**
 
-Plataforma de fitness con membresías Premium/VIP.
+Plataforma de administración completa de gimnasio: membresías Premium/VIP con pago por suscripción y acceso a rutinas personalizadas.
 
-✅ Sistema de suscripciones con pagos recurrentes
+✅ Gestión integral del gimnasio (socios, planes, rutinas)
 ✅ Genera $1.740.000 COP/mes en ingresos recurrentes
 ✅ Dashboard con métricas de ingresos en tiempo real
 ✅ Autenticación JWT y gestión de usuarios
@@ -201,7 +207,7 @@ Landing page corporativa de alto rendimiento · SEO optimizado, carga ultrarráp
 
 - [ ] Dominar **TypeScript** a nivel avanzado
 - [ ] Obtener certificación **AWS Cloud Practitioner**
-- [ ] Lanzar app móvil con **React Native**
+- [ ] Lanzar app móvil con **Flutter**
 - [ ] Integrar **Machine Learning** en sistemas web
 - [ ] Contribuir activamente a proyectos **Open Source**
 
